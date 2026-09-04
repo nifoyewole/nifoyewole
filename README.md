@@ -1,16 +1,13 @@
-## Hi there 👋
+### Oluwanifemi (Nifemi) Oyewole
 
-<!--
-**nifoyewole/nifoyewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Artificial Intelligence @ National College of Ireland, Dublin.
+Focused on reinforcement learning and data engineering.
 
-Here are some ideas to get you started:
+**Currently**
+- Finishing my MSc dissertation: reinforcement learning for adaptive treatment scheduling in stroke rehabilitation
+- Studying for the AWS Machine Learning Engineer – Associate certification
+- Open to graduate / entry-level AI, ML and data roles in Ireland and the UK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python · SQL · AWS · pandas · scikit-learn
+
+**Reach me:** [LinkedIn](https://linkedin.com/in/nifoyewole)
